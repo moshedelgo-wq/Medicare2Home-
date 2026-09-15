@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Run SET_DOMAIN.bat / configure_site.ps1 before publishing.

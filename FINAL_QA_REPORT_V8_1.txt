@@ -1,0 +1,9 @@
+Medicare V8.1 content cleanup audit
+===================================
+Removed documents/inquiry section from: ['medical.html', 'en/medical.html', 'ru/medical.html']
+Removed Hebrew insurance editorial placeholder.
+Remaining editorial-placeholder hits in visible HTML: 1
+Broken/dead internal links: 0
+
+Editorial hits:
+('ru/tourism.html', 'после утверждения')

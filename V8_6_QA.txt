@@ -1,0 +1,16 @@
+Medicare V8.6 — surgical image replacement
+===========================================
+Base: exact Medicare_V8_4_Professional_Images.zip package.
+No layout/CSS/content/search/accessibility/navigation changes.
+Only atmosphere image files were replaced; about.html and tourism.html received unique image filenames.
+HTML files differing from V8.4: ['tourism.html', 'about.html']
+
+Image references:
+medical.html: ['assets/photos/pharmacy-logistics.jpg']
+tourism.html: ['assets/photos/tourism-delivery.jpg']
+insurance.html: ['assets/photos/customer-service.jpg']
+index.html: ['assets/photos/pharmacist-consultation.jpg']
+about.html: ['assets/photos/about-special.jpg']
+import.html: ['assets/photos/pharmacist-sourcing.jpg']
+en/index.html: ['../assets/photos/pharmacist-consultation.jpg']
+ru/index.html: ['../assets/photos/pharmacist-consultation.jpg']

@@ -1,0 +1,10 @@
+Medicare V8.4 visual cleanup
+============================
+Replaced all atmosphere images actually referenced by the site with clean, unbranded imagery.
+No logos were pasted onto clothing, cartons, shelves or props.
+Header/footer branding remains the new Medicare2Home identity.
+HTML pages checked: 34
+Pages containing site search controls: 33
+Accessibility-link occurrences: 60
+Old medicare-logo.png references remaining in HTML: 2
+Accessibility pages present: HE / EN / RU

@@ -1,0 +1,14 @@
+Medicare V9.0 Security QA
+==========================
+HTML files: 34
+PHP/ASP/JSP files: 0
+Security configs present:
+OK _headers
+OK .htaccess
+OK nginx-security.conf
+OK vercel.json
+OK web.config
+OK security.txt
+Remote JS references: 0
+iframes: 0
+inline event handlers: 0

@@ -1,0 +1,9 @@
+Medicare V8.7 FINAL
+===================
+Base: V8.6 surgical build.
+Layout/content/navigation/search/accessibility unchanged.
+Only atmosphere-image assets were sharpened/replaced from the final approved visual set.
+Referenced local images checked: 231
+Missing referenced image files: 0
+Search-enabled HTML pages: 33
+Accessibility pages: ['accessibility.html', 'en/accessibility.html', 'ru/accessibility.html']

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>__SITE_URL__/</loc></url>
+  <url><loc>__SITE_URL__/en/</loc></url>
+  <url><loc>__SITE_URL__/ru/</loc></url>
+  <url><loc>__SITE_URL__/import.html</loc></url>
+  <url><loc>__SITE_URL__/en/import.html</loc></url>
+  <url><loc>__SITE_URL__/ru/import.html</loc></url>
+  <url><loc>__SITE_URL__/special.html</loc></url>
+  <url><loc>__SITE_URL__/en/special.html</loc></url>
+  <url><loc>__SITE_URL__/ru/special.html</loc></url>
+  <url><loc>__SITE_URL__/tourism.html</loc></url>
+  <url><loc>__SITE_URL__/en/tourism.html</loc></url>
+  <url><loc>__SITE_URL__/ru/tourism.html</loc></url>
+  <url><loc>__SITE_URL__/delivery.html</loc></url>
+  <url><loc>__SITE_URL__/en/delivery.html</loc></url>
+  <url><loc>__SITE_URL__/ru/delivery.html</loc></url>
+  <url><loc>__SITE_URL__/insurance.html</loc></url>
+  <url><loc>__SITE_URL__/en/insurance.html</loc></url>
+  <url><loc>__SITE_URL__/ru/insurance.html</loc></url>
+  <url><loc>__SITE_URL__/medical.html</loc></url>
+  <url><loc>__SITE_URL__/en/medical.html</loc></url>
+  <url><loc>__SITE_URL__/ru/medical.html</loc></url>
+  <url><loc>__SITE_URL__/about.html</loc></url>
+  <url><loc>__SITE_URL__/en/about.html</loc></url>
+  <url><loc>__SITE_URL__/ru/about.html</loc></url>
+  <url><loc>__SITE_URL__/faq.html</loc></url>
+  <url><loc>__SITE_URL__/en/faq.html</loc></url>
+  <url><loc>__SITE_URL__/ru/faq.html</loc></url>
+  <url><loc>__SITE_URL__/contact.html</loc></url>
+  <url><loc>__SITE_URL__/en/contact.html</loc></url>
+  <url><loc>__SITE_URL__/ru/contact.html</loc></url>
+</urlset>

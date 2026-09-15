@@ -1,0 +1,29 @@
+Medicare V8.9 — Header + Accessibility QA
+================================================
+Responsive header:
+- Main navigation collapses at <= 1280px, preventing search/accessibility controls from leaving the viewport.
+- Compact controls at <= 520px and <= 390px.
+
+Accessibility technical checks performed:
+- HTML language: checked
+- Main landmark: checked
+- Skip link: checked
+- Image alt attributes: checked
+- Button accessible names: checked
+- Form field labels: checked
+- Duplicate IDs: checked
+- Search modal keyboard focus trap: added
+- Reduced-motion preference: retained
+- Visible keyboard focus: retained
+- Accessibility pages: HE/EN/RU retained
+- Search dialog added to accessibility pages
+- Referenced images existence: checked
+
+Automated semantic issues remaining: 0
+Missing referenced images: 0
+
+IMPORTANT:
+This is a technical accessibility implementation/audit, not a legal certification.
+A final manual audit on the production domain with keyboard + screen reader and completion
+of the public accessibility statement with the organization's real physical accessibility
+arrangements / accessibility contact details is still required before claiming full compliance.

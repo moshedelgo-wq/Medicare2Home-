@@ -1,0 +1,4 @@
+Structural QA passed for 33 pages.
+Search and accessibility controls added in HE/EN/RU.
+No code-only change is a legal certification; manual production accessibility testing is still required before launch.
+Prominently legacy-branded photos were removed from live use; remaining small embedded legacy marks in some photos should be separately re-edited/regenerated.
