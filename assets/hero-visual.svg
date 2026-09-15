@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+<defs>
+  <linearGradient id="g1" x1="0" x2="1"><stop stop-color="#19BCE8"/><stop offset="1" stop-color="#21A875"/></linearGradient>
+  <linearGradient id="g2" x1="0" x2="1"><stop stop-color="#F4AA38"/><stop offset="1" stop-color="#19BCE8"/></linearGradient>
+  <filter id="s"><feDropShadow dx="0" dy="25" stdDeviation="30" flood-opacity=".15"/></filter>
+</defs>
+<rect width="900" height="700" rx="40" fill="#F7FCFE"/>
+<circle cx="700" cy="130" r="115" fill="#E9F9FD"/>
+<circle cx="150" cy="590" r="90" fill="#FFF5E5"/>
+<g filter="url(#s)">
+  <rect x="205" y="175" width="490" height="360" rx="34" fill="white"/>
+  <rect x="245" y="215" width="180" height="245" rx="20" fill="#EEF9FD"/>
+  <rect x="470" y="215" width="185" height="110" rx="20" fill="#F6FAFB"/>
+  <rect x="470" y="350" width="185" height="110" rx="20" fill="#F6FAFB"/>
+  <path d="M295 315h80M335 275v80" stroke="#19BCE8" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="540" cy="270" r="28" fill="#21A875"/>
+  <path d="M526 270l10 10 20-25" fill="none" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="540" cy="405" r="28" fill="#F4AA38"/>
+  <path d="M540 387v36M522 405h36" stroke="white" stroke-width="7" stroke-linecap="round"/>
+</g>
+<g>
+ <rect x="115" y="115" width="135" height="90" rx="18" fill="url(#g1)" transform="rotate(-7 115 115)"/>
+ <path d="M145 160h72M181 125v72" stroke="white" stroke-width="12" stroke-linecap="round"/>
+</g>
+<g transform="translate(660 490)">
+  <rect x="0" y="0" width="120" height="85" rx="18" fill="url(#g2)"/>
+  <path d="M20 58h80M55 20v30" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="30" cy="88" r="12" fill="#242629"/><circle cx="92" cy="88" r="12" fill="#242629"/>
+</g>
+<path d="M115 420c80-80 150-90 220-50" fill="none" stroke="#19BCE8" stroke-width="7" stroke-linecap="round" stroke-dasharray="10 14"/>
+<path d="M705 165c-30 80-60 105-110 130" fill="none" stroke="#21A875" stroke-width="7" stroke-linecap="round" stroke-dasharray="10 14"/>
+</svg>
